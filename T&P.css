@@ -1,0 +1,28 @@
+.main{
+  position:absolute;
+  width:80vw;
+  height:220vh;
+  margin-left:10vw;
+  margin-top:10vh;
+  background-color:#dee2e6;
+}
+.main p{
+  margin-left:1vw;
+}
+.main h4{
+  margin-left:1vw;
+}
+.main h5{
+  margin-left:1vw;
+}
+.main h6{
+  margin-left:1vw;
+}
+.tnpimg{
+  width:78vw;
+  height:30vh;
+  margin:2vh 1vw;
+}
+.foot{
+  margin-top:240vh;
+}

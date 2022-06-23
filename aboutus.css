@@ -1,0 +1,22 @@
+.main{
+  position:absolute;
+  width:80vw;
+  height:220vh;
+  margin-left:10vw;
+  margin-top:10vh;
+  background-color:#dee2e6;
+}
+.main h5{
+  text-align: center;
+}
+.main p{
+  margin-left:1vw;
+}
+.foot{
+  margin-top:240vh;
+}
+.main iframe{
+  width:30vw;
+  height:30vh;
+  margin-left:5vw;
+}

@@ -1,0 +1,256 @@
+*{margin:0;}
+.mitsLogo{
+  position: absolute;
+  margin-left:17vw;
+width:10vw;
+margin-top:5vh;
+}
+.clgName{
+  position: absolute;
+font-family: 'Playfair Display', sans-serif;
+font-weight:bold;
+
+  margin-top:9vh;
+  margin-left:28vw;
+  text-align: center;
+  line-height: 0.8;
+}
+.sidenav-trigger{
+  position: absolute;
+  margin-top:15vh;
+  margin-left:5vw;
+}
+.whitebg{
+  background-color:white;
+  width:98.5vw;
+  height:40vh;
+}
+.name1{
+  font-size:1.8rem;
+}
+.name2{
+  font-size:1.2rem;
+  margin-top:4vh;
+}
+.navdropdown{
+  position:absolute;
+  display:flex;
+
+
+  margin-top:30vh;
+  margin-left:8vw;
+  width:80vw;
+
+  height:10vh;
+}
+.dropdown-item{
+  color:black;
+  font-family:sans-serif;
+  font-style: italic;
+}
+.btn-group{
+
+  padding:0 7vw;
+}
+.btn2{
+  width:12vw;
+}
+
+.samebg{
+  background-color:#edf2f4;
+
+}
+.homepage{
+  position: absolute;
+  font-size:0.8rem;
+ margin-left:10vw;
+ margin-top:2vh;
+ font-weight: 100;
+}
+.foot{
+  background-image: url('cara1.jpg');
+  width:98.7vw;
+  height:40vh;
+  position: absolute;
+  margin-top:130vh;
+  background-size: cover;
+  display:flex;
+}
+.footmain{
+  background-color:#e9ecef;
+  opacity:0.7;
+  width:80vw;
+  margin-left:10vw;
+  height:40vh;
+
+}
+.footmain ul li{
+  padding:1vh 1vw;
+
+
+}
+
+.clgpics2{
+position: absolute;
+
+
+  height:35vh;
+  width:35vw;
+  margin-left:55vw;
+  margin-top:5vh;
+}
+.clgpics2 img{
+  width:8vw;
+  height:11vh;
+  padding:1vh 1vw;
+  cursor:pointer;
+}
+.clgpics2 img:hover{
+  width:9vw;
+  height:12vh;
+  padding:0 0;
+}
+@media (max-width:1000px){
+  .name1{
+    font-size:1.5rem;
+  }
+  .name2{
+    font-size:1rem;
+  }
+  .mitsLogo{
+    margin-top:5vh;
+  }
+}
+
+.directormsg{
+  position:absolute;
+  border:none;
+  width:25vw;
+  height:60vh;
+  margin-top:10vh;
+  margin-left:6vw;
+
+}
+
+.directormsg p{
+line-height:2rem;
+word-spacing:0.3vw;
+text-align:justify;
+margin-left:2vw;
+font-family:sans-serif;
+}
+.directormsg h6{
+  padding:1vh 1vw;
+  font-weight: bold;
+}
+.directorimg{
+  padding:1vh 1vw;
+  float:left;
+}
+.more{
+  font-size:1rem;
+  color:white;
+  font-weight: bold;;
+  border:none;
+  background-color:#3a5a40;
+  cursor:pointer;
+  margin-left:1vw;
+
+}
+.more:hover{
+  background-color:black;
+}
+.quicklinks{
+  position: absolute;
+  margin-left:40vw;
+  width:25vw;
+  height:55vh;
+  margin-top:70vh;
+  border:none;
+}
+.quicklinks h5{
+  margin-left:1vw;
+  font-family: sans-serif;
+}
+.quicklink{
+  width:6vw;
+  height:9vh;
+  margin:1vh 0.5vw;
+
+
+}
+.vision{
+  position: absolute;
+  margin-left:74vw;
+  margin-top:10vh;
+  width:20vw;
+  height:50vh;
+}
+.clgpics{
+  position:absolute;
+  margin-left:35vw;
+  margin-top:10vh;
+  height:38vh;
+  width:35vw;
+}
+.links{
+  position: absolute;
+  width:25vw;
+  height:15vh;
+  border:none;
+  margin-left:7vw;
+  margin-top:70vh;
+}
+.links h5{
+  margin-left:1vw;
+  font-family:sans-serif;
+}
+.link{
+  margin:1vh 1vw;
+  border:none;
+ text-align:center;
+ padding-top:2vh;
+  height:7vh;
+  width:20vw;
+  cursor:pointer;
+  border-radius:5px;
+  font-family:'Lobster';
+
+}
+.link:hover{
+color:white;
+}
+.link1{background-color: #309975;}
+.link2{background-color: #b300b3;}
+.link3{background-color: #ffca7a;}
+.link4{background-color: #2a6fdb;
+padding-top:0.1vh;}
+.link5{background-color: #f56038;}
+.link6{background-color: #dee0e6;}
+.downloads{
+  position: absolute;
+  width:20vw;
+  height:55vh;
+  border:none;
+  margin-left:75vw;
+  margin-top:70vh;
+}
+.downloads h5{
+  margin-left:1vw;
+    font-family: sans-serif;
+}
+.dimg{
+  align-items: center;
+
+  width:18vw;
+  height:9vh;
+  margin:1vh 1vw;
+}
+
+.logo{
+  position: absolute;
+  width:40vw;
+  height:50vh;
+  margin-top:85vh;
+  margin-left:40vw;
+}

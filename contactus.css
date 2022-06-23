@@ -1,0 +1,55 @@
+.mitsmap{
+position: absolute;
+margin-left:2.5vw;
+width:75vw;
+height:70vh;
+margin-top:2.5vh;
+}
+.main{
+  position: absolute;
+  width:80vw;
+  margin-left:10vw;
+  margin-top:10vh;
+  height: 115vh;
+    box-shadow: 5px 5px 8px 5px #888888;
+}
+
+.contactus{
+  position: absolute;
+  margin-top:80vh;
+  margin-left:5vw;
+  width:30vw;
+  height:20vh;
+  border:none;
+
+
+}
+.contactus h6 {
+  margin:1vh 0.5vw;
+  font-weight: 200;
+}
+.contactus h5,.register h5{
+  font-size:1rem;
+  margin:2vh 0.5vw;
+  font-weight:100;
+}
+.register{
+
+ position: absolute;
+  margin-left:45vw;
+  margin-top:80vh;
+  width:30vw;
+  height:30vh;
+  border:none;
+}
+.registerbox{
+  width:20vw;
+  height:7vh;
+  margin:2vh 1vw;
+  padding:0.5vh 1vw;
+  border: none;
+  box-shadow: 2px 2px 6px 2px #888888;
+}
+.register .btn{
+  margin:2vh 1vw;
+}
